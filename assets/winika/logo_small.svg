@@ -16,7 +16,7 @@
     </defs>
 
     <g>
-<path d="M0 38.5L65 0L129.5 38.5V113L65.5 151L0 113V38.5ZM28 55.5H40L49 84L59 55.5H70L79.5 84L89 55.5H101L85.5 102H75L64.5 72L54.5 102H43L28 55.5Z" fill="#url('#logo-gradient')"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 38.5L65 0L129.5 38.5V113L65.5 151L0 113V38.5ZM28 55.5H40L49 84L59 55.5H70L79.5 84L89 55.5H101L85.5 102H75L64.5 72L54.5 102H43L28 55.5Z" fill="#url('#logo-gradient')"/>
 
 </g>
 </svg>
