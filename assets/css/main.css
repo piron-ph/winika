@@ -27,6 +27,16 @@ Xampp-apache: 3.0.8.8
   scroll-behavior: smooth;
 }
 
+.align-left {
+  align-items: left;
+  text-align: left;
+}
+
+.align-right {
+  align-items: right;
+  text-align: right;
+}
+
 body {
   font-family: var(--font-default);
   color: var(--color-default);
